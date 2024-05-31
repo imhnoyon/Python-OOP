@@ -1,0 +1,1 @@
+{"name":"Local: piramid","url":"e:\\python_oop\\Assignment_1\\piramid.py","tests":[{"id":1712418422267,"input":"5","output":"5\n#\n##\n###\n####\n#####"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\python_oop\\Assignment_1\\piramid.py","group":"local","local":true}
